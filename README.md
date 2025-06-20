@@ -116,6 +116,8 @@ This project demonstrates how machine learning can be applied to real-world supp
 4. Launch the Streamlit dashboard (optional):
    ```bash
    streamlit run dashboard.py
+   &
+   python--m-streamlit-run-advanced_dashboard.py
    ```
 
 ---
