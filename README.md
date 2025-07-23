@@ -29,6 +29,10 @@ The dataset includes real-world supply chain data from a fashion and beauty star
 
 🔗 [Download Dataset](https://drive.google.com/file/d/1LzRgcmiPu-D1e1sPNIDvkr57C4mGzdLH/view?usp=sharing)
 
+<br>
+<img width="1844" height="773" alt="image" src="https://github.com/user-attachments/assets/f5966305-a910-42ee-b181-33b643bda098" />
+<br><br>
+
 ---
 
 ## 🧠 Project Steps
@@ -78,6 +82,10 @@ An interactive **Streamlit Dashboard** was created for real-time visualization a
 🔗 [Explore Streamlit Dashboard](https://analyticsforfashionsupplymanagement.streamlit.app/)
 
 ---
+
+
+
+
 
 ## ✅ Key Outcomes
 - Built a predictive model to forecast future product demand
