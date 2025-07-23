@@ -83,21 +83,11 @@ An interactive **Streamlit Dashboard** was created for real-time visualization a
 
 ---
 
-
-
-
-
 ## ✅ Key Outcomes
 - Built a predictive model to forecast future product demand
 - Improved understanding of supply chain KPIs
 - Developed visual tools to support data-driven decision-making
 - Enabled better inventory and resource planning
-
----
-
-## 📎 References
-- GitHub: [Supply Chain ML Project](https://github.com/RILUCK/Supply-Chain-Management-Machine-Learning)
-- Dashboard Code Sample: [Kaggle Notebook](https://www.kaggle.com/code/yaminh/supply-chain-analysis-with-dashboard)
 
 ---
 
